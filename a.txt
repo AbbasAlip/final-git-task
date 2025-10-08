@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hjmodifying hi
+=======
+khchhi
+>>>>>>> first
 
